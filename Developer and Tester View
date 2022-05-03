@@ -1,0 +1,12 @@
+**Tester and Developer Views**
+The end-requirement user&#39;s is &quot;No special character is allowed in Input field.&quot;
+Developer&#39;s role: Clearly, create code for adding an Input field while ensuring that
+if a user inputs any special character, an error is raised or an appropriate error
+message is displayed.
+
+Tester&#39;s point of view: The tester will initially examine the specified criteria, but he
+will also consider different situations. He&#39;ll wonder things like, &quot;What if only
+special characters are allowed in the input box?&quot; Will it show the user the same or
+a different message?
+What happens if the user copies and pastes any combination of special and
+alphanumeric characters into the input box?
